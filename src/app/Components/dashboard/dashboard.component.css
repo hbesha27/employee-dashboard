@@ -1,0 +1,12 @@
+input.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+
+#addEmployeeButton {
+  margin-right: 10px;
+  border: solid 2px black;
+  background-color: whitesmoke;
+}
+
+
+
